@@ -1,4 +1,4 @@
-# maven-cicd
+# CICD using GiT-Maven-Jenkins & Tomcat !!
 
 Tutorial for HANDsON:
 https://www.youtube.com/watch?v=CeIGqO1OfOg&t=23s
